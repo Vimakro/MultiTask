@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tercero", "tercero\tercero.csproj", "{F5A1CB29-5800-42BB-AB93-C985A4AD43B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{457C47E9-1903-4313-B2F0-9102F0929728}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5A1CB29-5800-42BB-AB93-C985A4AD43B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5A1CB29-5800-42BB-AB93-C985A4AD43B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5A1CB29-5800-42BB-AB93-C985A4AD43B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5A1CB29-5800-42BB-AB93-C985A4AD43B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{457C47E9-1903-4313-B2F0-9102F0929728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{457C47E9-1903-4313-B2F0-9102F0929728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{457C47E9-1903-4313-B2F0-9102F0929728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{457C47E9-1903-4313-B2F0-9102F0929728}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB2F0CC5-3775-4E97-8B59-46A5523D8F80}
+	EndGlobalSection
+EndGlobal

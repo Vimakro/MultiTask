@@ -1,0 +1,14 @@
+C:\Users\PC-1\source\repos\tercero\tercero\bin\Debug\tercero.exe.config
+C:\Users\PC-1\source\repos\tercero\tercero\bin\Debug\tercero.exe
+C:\Users\PC-1\source\repos\tercero\tercero\bin\Debug\tercero.pdb
+C:\Users\PC-1\source\repos\tercero\tercero\obj\Debug\tercero.csproj.AssemblyReference.cache
+C:\Users\PC-1\source\repos\tercero\tercero\obj\Debug\tercero.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC-1\source\repos\tercero\tercero\obj\Debug\tercero.Form1.resources
+C:\Users\PC-1\source\repos\tercero\tercero\obj\Debug\tercero.Properties.Resources.resources
+C:\Users\PC-1\source\repos\tercero\tercero\obj\Debug\tercero.csproj.GenerateResource.cache
+C:\Users\PC-1\source\repos\tercero\tercero\obj\Debug\tercero.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\source\repos\tercero\tercero\obj\Debug\tercero.exe
+C:\Users\PC-1\source\repos\tercero\tercero\obj\Debug\tercero.pdb
+C:\Users\PC-1\source\repos\tercero\tercero\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC-1\source\repos\tercero\tercero\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC-1\source\repos\tercero\tercero\obj\Debug\tercero.csproj.CopyComplete
